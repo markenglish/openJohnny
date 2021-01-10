@@ -6,6 +6,8 @@ The goal of this project  is to create an accurate set of models for printing a 
 I started from this model, which appears to be a very detailed solid model that has been booleaned together.  Most of the work has been separating sections and repairing the solid > mesh process.
 https://www.thingiverse.com/thing:4659508
 
+Im using 3dsmax but anything that can import and export obj files would work to update.
+
 Using a lot of lego for most points of articulation, the current set is 
 
 10x 18654 
