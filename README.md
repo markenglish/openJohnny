@@ -3,7 +3,7 @@
 
 The goal of this project  is to create an accurate set of models for printing a mini Johnny 5 from the short circuit movies.  Currently aiming at resin printers.
 
-I started from this model, which appears to be a very detailed solid model that has been booleaned together.  Most of the work has been separating sections and repairing the solid > mesh process.
+I started from this model, which appears to be a very detailed solid model that has been booleaned together.  Most of the work has been separating sections and repairing the solid > mesh process.  And adding the lego articulation.
 https://www.thingiverse.com/thing:4659508
 
 Im using 3dsmax but anything that can import and export obj files would work to update.
