@@ -3,8 +3,10 @@
 
 The goal of this project  is to create an accurate set of models for printing a mini Johnny 5 from the short circuit movies.  Currently aiming at resin printers.
 
-I started from this model, which appears to be a very detailed solid model that has been booleaned together.  Most of the work has been separating sections and repairing the solid > mesh process.
+I started from this model, which appears to be a very detailed solid model that has been booleaned together.  Most of the work has been separating sections and repairing the solid > mesh process.  And adding the lego articulation.
 https://www.thingiverse.com/thing:4659508
+
+Im using 3dsmax but anything that can import and export obj files would work to update.
 
 Using a lot of lego for most points of articulation, the current set is 
 
@@ -29,7 +31,5 @@ This is still a WIP, the base lego hinge isnt great and could be optimised.   Th
 
 Making it all fit currently requires a lot of dremel and sanding work but it does come together and print nicely. 
 
-An earlier (unpainted) version of the model can be seen here. 
+A painted openJohnny. 
 ![Screenshot](IMG_20210128_022146.jpg)
-
-
