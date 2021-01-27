@@ -30,7 +30,6 @@ This is still a WIP, the base lego hinge isnt great and could be optimised.   Th
 Making it all fit currently requires a lot of dremel and sanding work but it does come together and print nicely. 
 
 An earlier (unpainted) version of the model can be seen here. 
-![Screenshot](IMG_20201221_164545.jpg)
-https://imgur.com/a/5Ob4uen
+![Screenshot](IMG_20210128_022146.jpg)
 
 
